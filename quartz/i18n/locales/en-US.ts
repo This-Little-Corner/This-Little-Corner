@@ -57,7 +57,7 @@ export default {
       readingTime: ({ minutes }) => `${minutes} min read`,
     },
     similarity: {
-      title: "Similarity",
+      title: "20 Most Similar",
       noSimilaritiesFound: "No similarities found",
     },
   },
