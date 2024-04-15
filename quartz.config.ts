@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "google", tagId: "G-R8T8R12CDY",
+      provider: "google", tagId: "G-G6599Y79MS",
     },
     locale: "en-US",
     baseUrl: "Meditation",
