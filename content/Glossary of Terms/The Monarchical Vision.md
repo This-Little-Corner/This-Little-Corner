@@ -1,0 +1,2 @@
+#PaulVanderklay
+Similar to a “view from nowhere” (Nagal), or “the point of view of the universe” (Singer!?). A kind of objective view of things that is more panoramic, complete, and neutral than can actually be achieved.

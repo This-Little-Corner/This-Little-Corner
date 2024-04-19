@@ -1,0 +1,2 @@
+#JonathanPageau 
+Veils between Layers of reality. Covers provide increased capacity to deal with the world as we move further from the centre toward the periphery of chaos. The “garments of skin” include: clothing, tools, technology, civilization.

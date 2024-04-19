@@ -7,3 +7,5 @@
 - [[Sources/Jordan Peterson]]
 - [[Sources/Jonathan Pageau]]
 - [[Sources/Agapic Orientation]]
+- [[Sources/Navigating Patterns]]
+

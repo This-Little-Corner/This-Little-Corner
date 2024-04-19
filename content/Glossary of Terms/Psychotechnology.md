@@ -1,3 +1,4 @@
+#JohnVervaeke
 Technology means systematic use of a tool.
 
 A standardized way of doing information processing.
@@ -7,3 +8,5 @@ Improves and enhances cognition by linking brains together: your brain to your o
 A psychotechnology fits your brain and enhances how it operates. For example: literacy.
 **<[https://www.youtube.com/watch?v=aF9HeXg65AE](https://www.youtube.com/watch?v=aF9HeXg65AE)> 47:00**
 
+---
+Technologies which enhance our thinking aren’t necessarily physical, but can be psychic. For example, literacy or writing are psycho-technologies which enhance your ability to think and allow you to extend your recollection beyond your conscious awareness.
