@@ -11,3 +11,6 @@ Note: There is no arena with only one agent and there is no agent in only one ar
 (See “Religion As a Cultural System”, in Essays on The Interpretation of Cultures, Geertz, 1973.)
 
 Related terms: [[Domicide]], [[Co-Identification]], [[Participatory Knowing]], [[Worldview]]
+Related Videos:
+[[Ep. 7 - Awakening from the Meaning Crisis - Aristotle's World View and Erich Fromm (yy47YzvGniQ)]]
+[Understanding the Jordan Peterson Phenomenon in the Light of Meaning Crisis - YouTube](https://www.youtube.com/watch?v=Q8NrCR4ifoo)

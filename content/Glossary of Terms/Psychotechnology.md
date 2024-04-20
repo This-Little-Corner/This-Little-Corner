@@ -10,3 +10,7 @@ A psychotechnology fits your brain and enhances how it operates. For example: li
 
 ---
 Technologies which enhance our thinking aren’t necessarily physical, but can be psychic. For example, literacy or writing are psycho-technologies which enhance your ability to think and allow you to extend your recollection beyond your conscious awareness.
+
+---
+[[Cognitive Science and the Sacred ｜ with John Vervaeke (2PGglfl5j_I)]]
+[(3) Why Couldn't Jesus' Disciples Fast? - YouTube](https://www.youtube.com/watch?v=KnAT3cBr6EA)

@@ -14,7 +14,6 @@ This website will help you search for information.
 - [[Sources/The Republic (Plato) Discussions]]
 
 *These transcripts were created by using Whisper to transcribe audio files to text.*
-*The 20 Most Similar box is something I made which uses AI Vector Embedding models to represent the semantic (not lexical) meaning of a document.*
 
 Resources
 - I use this website to watch a video next to its transcript & easily jump to the timestamp I want - [YouTube Transcript - read YouTube videos](https://youtubetranscript.com/)
