@@ -1,0 +1,3 @@
+https://youtubetranscript.com/?v=gSY9PML3ZGw
+
+ Hey y'all, I'm on vacation so I'm not sitting in front of my computer. I sent out a couple little videos. Zach just sent me that SlateStar Codex review of Jordan Peterson's 12 Rules for Life and that was hands down one of the best things I've read, one of the best reviews I've read on the book. Now it's windy so you're going to have wind noise. But I'm going to drop the link in here and go ahead and put in the comments, let me know what you think. As Zach said, I think that was hands down one of the best reviews and I'm gratified to see the CS Lewis work. I know that Scott Alexander, which is not his real name, likes Lewis and mentions him now and then. But let me know what you think.

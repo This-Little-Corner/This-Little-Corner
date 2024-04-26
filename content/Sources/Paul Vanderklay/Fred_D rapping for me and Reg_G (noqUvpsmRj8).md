@@ -1,0 +1,3 @@
+https://youtubetranscript.com/?v=noqUvpsmRj8
+
+ Yeah. All right. Paul and Fantasy Football. Right, to you on your TV screen we got Pastor Paul doing the stage we got. Yo, everybody just like that. Enough to the chat. Your stuff is fat. I bust platinum tracks. Out your speaker. When he's on the podium, he is the preacher. Don't you know Reggie is a one. He's eating his pie. Don't you know he's good to go like that. You know, really though, they call me Fred D and I steal the show. Great.

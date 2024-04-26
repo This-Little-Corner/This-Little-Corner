@@ -1,0 +1,3 @@
+https://youtubetranscript.com/?v=vcAK5Huzlnc
+
+ I just wanted to leave a quick reminder that I'll be with John Vendonk in Chino, California tomorrow night, October 18th at 7 p.m. for a meetup. And Mr. Reagan will be there too, so if you're interested in that, he's planning on coming. I'll leave the meetup link in the notes. And like I said, October 18th, 2018, 7 p.m., Chino, California. And all the details will be in the comments.

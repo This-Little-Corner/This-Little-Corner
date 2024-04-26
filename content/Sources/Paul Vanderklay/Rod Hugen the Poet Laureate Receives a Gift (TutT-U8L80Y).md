@@ -1,0 +1,3 @@
+https://youtubetranscript.com/?v=TutT-U8L80Y
+
+ Now I will apologize to Michael Leroy. Those of you who ate after him certainly got your I know that but human friends man Redeemer University College is a good friend and so he had warned me about you so I have a collection of implements of drying up here and I've got three gifts the first one is for you Rodney for you to take on future sentence wherever you go it's a Rodney size top and then two other items here mark for Dort College these are not for you you can stay up here there will be a future poem this is a door college blanket that can also be used as a towel and I thought as you take departure from us that I should give gifts in order of service so Steve you get the small one and Dee you get the big one.
