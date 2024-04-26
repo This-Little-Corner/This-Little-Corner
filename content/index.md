@@ -1,4 +1,4 @@
-# Petersonsphere Navigator
+# This Little Corner Navigator
 
 This website will help you search for information.
 
@@ -6,15 +6,9 @@ This website will help you search for information.
 - [[Glossary of Terms]]
 
 #### Youtube Transcripts:
-- [[Sources/Agapic Orientation]]
-- [[Sources/Father Eric]]
-- [[Sources/John Vervaeke]]
-- [[Sources/Jonathan Pageau]]
-- [[Sources/Jonathan Pageau Clips]]
-- [[Sources/Jordan Peterson]]
-- [[Sources/Jordan Peterson Clips]]
-- [[Sources/Navigating Patterns]]
 - [[Sources/Paul Vanderklay]]
-- [[Sources/The Republic (Plato) Discussions]]
 
 *These transcripts were created by using Whisper to transcribe audio files to text.*
+
+For more sources, see:
+[index (petersonsphere.github.io)](https://petersonsphere.github.io/Petersonsphere/)
