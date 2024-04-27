@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "google", tagId: "G-QX0F3MVTXE",
     },
     locale: "en-US",
-    baseUrl: "This-Little-Corner",
+    baseUrl: "",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
