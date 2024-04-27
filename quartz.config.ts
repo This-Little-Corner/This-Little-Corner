@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Petersonsphere Navigator",
+    pageTitle: "This Little Corner Navigator",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "google", tagId: "G-QX0F3MVTXE",
     },
     locale: "en-US",
-    baseUrl: "Meditation",
+    baseUrl: "This-Little-Corner",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
